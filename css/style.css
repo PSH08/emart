@@ -1,0 +1,63 @@
+#wrap {
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#banner {
+    background: #333;
+    height: 300px;
+}
+.container {
+    width: 1300px;
+    height: inherit;
+    background: rgba(0,0,0,0.3);
+    margin: 0 auto;
+}
+/* 헤더 */
+#header {
+    height: 200px;
+    background: #111;
+}
+.login {
+    height: 25px;
+    background: #1b7ace;
+}
+.logo {
+    height: 100px;
+    background: #7691a8;
+}
+.menu {
+    height: 75px;
+    background: #7798b4;
+}
+/* 컨텐트 1 */
+#content1 {
+    height: 1100px;
+    background: #222;
+}
+.sub_menu {
+    height: 80px;
+    background: #9bc1e2;
+}
+.mid_content {
+    height: 650px;
+    background: #7fbef5;
+}
+.bot_content {
+    height: 370px;
+    background: #54abf7;
+}
+/* 컨텐트2 */
+#content2 {
+    background: #444;
+    height: 500px;
+}
+.cont2_tit {
+    height: 100px;
+    background: #264663;
+}
+.cont2_menu {
+    height: 400px;
+    background: #2499ff;
+}
