@@ -26,24 +26,47 @@
     height: 19px;
     background: rgb(118, 118, 160);
 }
+/* 콘텐츠1 */
 #content1 {
     background: rgb(68, 59, 59);
     height: 100;
 }
 .cont {
     margin-top: 50px;
+    margin-bottom: 100px;
     height: 800px;
     background: turquoise;
 }
-.cont1 {
+.cont_right {
     float: right;
     width: 50%;
     background: rgb(255, 222, 222);
     height: 800px;
 }
-.cont2 {
+.cont_left {
     float: left;
     width: 50%;
     background: rgb(255, 255, 223);
     height: 800px;
+}
+/* 배너 */
+#banner {
+    background: skyblue;
+}
+.img {
+    height: 120px;
+    margin-bottom: 60px;
+}
+/* 컨텐츠2 */
+#content2 {
+    background: #a287dd;
+}
+.cont2_tit {
+    height: 45px;
+    margin-bottom: 10px;
+    background: #f17e7e;
+}
+.cont2_list {
+    height: 280px;
+    background: #7560cf;
 }
