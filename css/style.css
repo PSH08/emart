@@ -1,63 +1,49 @@
 #wrap {
-    color: #fff;
-    font-size: 32px;
     text-align: center;
     text-transform: uppercase;
 }
-#banner {
-    background: #333;
-    height: 300px;
-}
 .container {
-    width: 1300px;
+    width: 1280px;
     height: inherit;
     background: rgba(0,0,0,0.3);
     margin: 0 auto;
 }
 /* 헤더 */
 #header {
-    height: 200px;
-    background: #111;
+    background: red;
+    padding-top: 14px;
 }
 .login {
-    height: 25px;
+    height: 89px;
     background: #1b7ace;
 }
-.logo {
-    height: 100px;
-    background: #7691a8;
+#header_menu {
+    height: 19px;
+    padding-top: 15px;
+    background: rgb(255, 255, 211);
 }
-.menu {
-    height: 75px;
-    background: #7798b4;
+.head_menu {
+    height: 19px;
+    background: rgb(118, 118, 160);
 }
-/* 컨텐트 1 */
 #content1 {
-    height: 1100px;
-    background: #222;
+    background: rgb(68, 59, 59);
+    height: 100;
 }
-.sub_menu {
-    height: 80px;
-    background: #9bc1e2;
+.cont {
+    margin-top: 50px;
+    height: 800px;
+    background: turquoise;
 }
-.mid_content {
-    height: 650px;
-    background: #7fbef5;
+.cont1 {
+    float: right;
+    width: 50%;
+    background: rgb(255, 222, 222);
+    height: 800px;
 }
-.bot_content {
-    height: 370px;
-    background: #54abf7;
-}
-/* 컨텐트2 */
-#content2 {
-    background: #444;
-    height: 500px;
-}
-.cont2_tit {
-    height: 100px;
-    background: #264663;
-}
-.cont2_menu {
-    height: 400px;
-    background: #2499ff;
+.cont2 {
+    float: left;
+    width: 50%;
+    background: rgb(255, 255, 223);
+    height: 800px;
 }
